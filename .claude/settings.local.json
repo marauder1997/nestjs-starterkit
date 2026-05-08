@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(mkdir -p /tmp/nextkit-backup)",
+      "Bash(mv CLAUDE.md .env.example .gitignore docs /tmp/nextkit-backup/)",
+      "Bash(export PATH=\"$HOME/.npm-global/bin:$PATH\")",
+      "Bash(pnpm create:*)",
+      "Bash(pnpm approve-builds:*)",
+      "Bash(pnpm build:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(.github/workflows/deploy.yml:*)"
+    ]
+  }
+}

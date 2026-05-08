@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "K-뷰티 브랜드 베트남 진출",
+    "category": "동남아시아",
+    "country": "베트남",
+    "industry": "뷰티·화장품",
+    "year": 2024,
+    "description": "국내 중소 화장품 브랜드의 베트남 시장 진출을 위한 현지 파트너 발굴, 유통망 구축, 현지화 마케팅을 종합 지원했습니다.",
+    "result": "진출 1년 만에 월 매출 3억원 달성",
+    "tags": ["시장조사", "파트너발굴", "마케팅"],
+    "image": "/portfolio/vietnam-beauty.jpg",
+    "color": "bg-pink-50"
+  },
+  {
+    "id": 2,
+    "title": "스마트팩토리 솔루션 독일 수출",
+    "category": "유럽",
+    "country": "독일",
+    "industry": "제조·IT",
+    "year": 2024,
+    "description": "국내 스마트팩토리 솔루션 기업의 독일 진출을 위해 CE 인증 취득, 현지 시스템 통합업체와의 파트너십을 지원했습니다.",
+    "result": "독일 3개 자동차 부품사 계약 체결",
+    "tags": ["CE인증", "파트너발굴", "B2B"],
+    "image": "/portfolio/germany-smart.jpg",
+    "color": "bg-blue-50"
+  },
+  {
+    "id": 3,
+    "title": "농식품 기업 미국 시장 개척",
+    "category": "북미",
+    "country": "미국",
+    "industry": "식품·농업",
+    "year": 2023,
+    "description": "건강기능식품 전문 중소기업의 미국 FDA 인증 획득부터 아마존 입점, 현지 유통망 확보까지 전 과정을 지원했습니다.",
+    "result": "FDA 승인 후 6개월 내 아마존 Top 100 진입",
+    "tags": ["FDA인증", "이커머스", "유통"],
+    "image": "/portfolio/usa-food.jpg",
+    "color": "bg-green-50"
+  },
+  {
+    "id": 4,
+    "title": "패션 브랜드 일본 온라인 진출",
+    "category": "일본",
+    "country": "일본",
+    "industry": "패션·의류",
+    "year": 2023,
+    "description": "한국 중소 패션 브랜드의 일본 온라인 쇼핑몰 입점 및 SNS 마케팅을 통한 Z세대 타겟 브랜딩을 지원했습니다.",
+    "result": "라쿠텐·야후쇼핑 동시 입점, 첫 달 완판",
+    "tags": ["이커머스", "SNS마케팅", "현지화"],
+    "image": "/portfolio/japan-fashion.jpg",
+    "color": "bg-purple-50"
+  },
+  {
+    "id": 5,
+    "title": "의료기기 중동 수출",
+    "category": "중동",
+    "country": "UAE·사우디",
+    "industry": "의료기기",
+    "year": 2023,
+    "description": "국내 의료기기 기업의 중동 진출을 위한 현지 인증(SFDA, MDR) 취득 및 정부 조달 참여를 지원했습니다.",
+    "result": "사우디 보건부 조달 계약 체결 (50억원 규모)",
+    "tags": ["의료인증", "정부조달", "B2B"],
+    "image": "/portfolio/middle-east-medical.jpg",
+    "color": "bg-yellow-50"
+  },
+  {
+    "id": 6,
+    "title": "친환경 포장재 유럽 진출",
+    "category": "유럽",
+    "country": "네덜란드",
+    "industry": "친환경·소재",
+    "year": 2022,
+    "description": "국내 친환경 포장재 스타트업의 유럽 ESG 규제 대응 전략 수립 및 유럽 대형 유통사 납품을 지원했습니다.",
+    "result": "유럽 10개국 환경인증 획득, 연 수출 20억원",
+    "tags": ["ESG", "환경인증", "유통"],
+    "image": "/portfolio/europe-eco.jpg",
+    "color": "bg-teal-50"
+  }
+]

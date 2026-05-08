@@ -1,0 +1,33 @@
+{
+  "name": "글로벌파트너스",
+  "nameEn": "Global Partners Co.",
+  "slogan": "세계로 나아가는 당신의 든든한 파트너",
+  "sloganEn": "Your Trusted Partner for Global Expansion",
+  "description": "20년 이상의 해외진출 지원 경험을 바탕으로 중소기업의 글로벌 성장을 돕는 전문 기업입니다.",
+  "founded": "2004",
+  "employees": "120+",
+  "projects": "500+",
+  "countries": "35",
+  "address": "서울특별시 강남구 테헤란로 123, 글로벌타워 15층",
+  "phone": "02-1234-5678",
+  "email": "contact@globalpartners.kr",
+  "social": {
+    "linkedin": "#",
+    "instagram": "#",
+    "youtube": "#"
+  },
+  "partners": [
+    { "name": "KOTRA", "logo": "/logos/kotra.png" },
+    { "name": "중소벤처기업부", "logo": "/logos/msme.png" },
+    { "name": "한국무역협회", "logo": "/logos/kita.png" },
+    { "name": "수출입은행", "logo": "/logos/exim.png" }
+  ],
+  "history": [
+    { "year": "2004", "event": "글로벌파트너스 창립" },
+    { "year": "2008", "event": "동남아시아 진출 지원 센터 개소" },
+    { "year": "2012", "event": "중소기업 해외진출 우수기관 선정" },
+    { "year": "2016", "event": "유럽 네트워크 구축 (독일, 프랑스, 네덜란드)" },
+    { "year": "2020", "event": "디지털 수출 지원 플랫폼 런칭" },
+    { "year": "2024", "event": "누적 지원 기업 500개사 달성" }
+  ]
+}
